@@ -21,9 +21,11 @@ Cookpad: Erabiltzaileen komunitateak sortutako errezeta kopurua handia den arren
 Muga horiek kontutan edukita, BioSukaldari proiektua besteen hobekuntzak edo arazoak zuzenduko dituen web aplikazioa izango da. Interfaze garbi eta azkarra izango du denbora ez galtzeko. Gainera, errezeta bakoitza osasuntxua den edo ez baloratuko du eta errezetaren balorazioa ere egongo da, erabiltzailearen esperientzian oinarrituta. Hortaz gain, informazio guztia garbia eta erraza izango da ulertzeko. 
 
 
-  - https://www.supercook.com/#/desktop
-  - https://cookpad.com/es
-  - https://www.myrealfood.app/es/recipes
+ | WEB APLIKAZIOA | ESTEKA |
+|-----------|--------|
+| SuperCook | https://www.supercook.com/#/desktop |
+| Cookpad | https://cookpad.com/es |
+| MyRealFood | https://www.myrealfood.app/es/recipes |
     
 
 ### 2.2 ERABILTZAILE MOTA:
