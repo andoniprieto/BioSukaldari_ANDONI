@@ -35,3 +35,11 @@ Alde batetik, unibertsitateko ikaslearen profila dago. Erabiltzaile honek denbor
 
 Beste alde batetik, langile lanpetuaren profila dago. Erabiltzaile honen egoera ezberdina da: lanaldi luzeak eta estresa ditu, eta astean zehar sukaldean egoteko denbora gutxi du. Gainera, zer jan erabakitzeak neke mentala eragiten dio eta, maiz, janari ultraprozesatuetara edo janari azkarrera jotzen du. Hau jakinda, aste osoko planifikazioa sortu ahal izango du, etxean dituen osagaien arabera. Planifikazio honi esker, langileak ez du denborarik galduko, sukaldean denbora gutxi igaroko du eta janari osasuntsuak prestatu ahal izango ditu.
 
+## 3. KROKISAK
+### [3.1 ORDENAGAILUAREN KROKISAK](https://app.diagrams.net/#G1301RFVV-qvVzHUfqTN03VpjebksTmYhS#%7B%22pageId%22%3A%22w913mCOw5EavlaEhk6UF%22%7D)
+### [3.1 MUGIKORRAREN KROKISAK](https://app.diagrams.net/#G1pwmUZFfczau1YDQRaouYVd5HFHad6okW#%7B%22pageId%22%3A%22qPrNueYCe3h7InyYOUq9%22%7D)
+
+## 4. NABIGAZIO MAPA
+[Nabigazio mapa.](https://docs.google.com/document/d/14fxfGhLAB-O4DLG-z639P1fw3p6TnS9DEQjsLq_mGJ4/edit?tab=t.0#heading=h.88d3driveewv)
+
+
