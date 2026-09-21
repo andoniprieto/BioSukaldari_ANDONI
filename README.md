@@ -38,30 +38,30 @@ Beste alde batetik, langile lanpetuaren profila dago. Erabiltzaile honen egoera 
 ## 3. KROKISAK
 ### 3.1 ORDENAGAILUAREN KROKISAK
 #### MENUA:
-<img width="762" height="642" alt="Ordenagailua-MENUA drawio" src="https://github.com/user-attachments/assets/d5dd735c-a4d1-4e6c-a9e6-e85bdcc9505d" />
+<img width="762" height="642" alt="Ordenagailua-Menua drawio (1)" src="https://github.com/user-attachments/assets/91d3a0ed-5a2c-4c67-becb-005052ebab6f" />
   
 #### ERREZETAK INFO GENERALA:
-<img width="762" height="642" alt="Ordenagailua-BILATU ONDOREN drawio" src="https://github.com/user-attachments/assets/6bd41c03-695a-4d69-b1c3-df133cd57434" />
+<img width="762" height="642" alt="Ordenagailua-BILATU ONDOREN drawio (1)" src="https://github.com/user-attachments/assets/b35e85f2-1508-4b7e-bfd2-9f6da5f2ab80" />
 
 #### ERREZETAK INFO ZEHATZA:
-<img width="762" height="832" alt="Ordenagailua-RECETA INFO  drawio" src="https://github.com/user-attachments/assets/44ccc7f3-2dd6-4381-9df1-46f5752956c1" />
+<img width="762" height="832" alt="Ordenagailua-RECETA INFO  drawio (1)" src="https://github.com/user-attachments/assets/a640ddbc-aade-4453-bd01-8c2a7b3c1dd3" />
 
 #### PLANIFIKAZIOA
-<img width="762" height="832" alt="Ordenagailua-ASTEKO PLANIFIKAZIOA drawio" src="https://github.com/user-attachments/assets/b995a67b-a8aa-4aee-8da9-9e191bedde4e" />
+<img width="762" height="832" alt="Ordenagailua-ASTEKO PLANIFIKAZIOA drawio (1)" src="https://github.com/user-attachments/assets/f75e7279-24d1-4cee-8888-e8a4f6e1bae0" />
 
   
 ### 3.2 MUGIKORRAREN KROKISAK
 #### MENUA:
-  <img width="472" height="382" alt="mobila-MENUA drawio" src="https://github.com/user-attachments/assets/1928103e-0883-4b24-b1d8-f33567e713ab" />
+<img width="472" height="382" alt="mobila-MENUA drawio (1)" src="https://github.com/user-attachments/assets/250279fd-ad7e-4d0e-b13e-8e6c06efc1d6" />
   
 #### ERREZETAK INFO GENERALA:
-  <img width="472" height="382" alt="mobila-ERREZETAK INFO GENERALA drawio" src="https://github.com/user-attachments/assets/d26f0141-ffed-409c-b77c-206a43fff09d" />
+<img width="472" height="382" alt="mobila-ERREZETAK INFO GENERALA drawio (1)" src="https://github.com/user-attachments/assets/ce959469-0006-4f05-811c-655a5508bb17" />
   
 #### ERREZETAK INFO ZEHATZA:
-  <img width="472" height="382" alt="mobila-ERREZETA INFORMAZIOA drawio" src="https://github.com/user-attachments/assets/e9cf0b8f-3da6-4888-a341-e685cf2826d6" />
+<img width="472" height="382" alt="mobila-ERREZETA INFORMAZIOA drawio (1)" src="https://github.com/user-attachments/assets/b1f1b6c8-2a73-4d05-b7cc-ca95b7d2b2d0" />
   
 #### PLANIFIKAZIOA
-  <img width="473" height="402" alt="mobila-PLANAIFIKAZIOA drawio" src="https://github.com/user-attachments/assets/9a3d987a-2d8e-4b0b-a7e0-71b9b6d8a64c" />
+<img width="473" height="402" alt="mobila-PLANAIFIKAZIOA drawio (1)" src="https://github.com/user-attachments/assets/82be2a25-5335-477a-9c01-b4dfa13af50c" />
 
 
 ## 4. NABIGAZIO MAPA
