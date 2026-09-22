@@ -35,6 +35,8 @@ Alde batetik, unibertsitateko ikaslearen profila dago. Erabiltzaile honek denbor
 
 Beste alde batetik, langile lanpetuaren profila dago. Erabiltzaile honen egoera ezberdina da: lanaldi luzeak eta estresa ditu, eta astean zehar sukaldean egoteko denbora gutxi du. Gainera, zer jan erabakitzeak neke mentala eragiten dio eta, maiz, janari ultraprozesatuetara edo janari azkarrera jotzen du. Hau jakinda, aste osoko planifikazioa sortu ahal izango du, etxean dituen osagaien arabera. Planifikazio honi esker, langileak ez du denborarik galduko, sukaldean denbora gutxi igaroko du eta janari osasuntsuak prestatu ahal izango ditu.
 
+Web aplikazioak sinplea, intuitiboa eta zuzena izan behar du. Bi perfilak, denbora gutxi behar dutelako eta ez dute aplikazio oso konplexu batean denborarik galdu nahi.
+
 ## 3. KROKISAK
 ### 3.1 ORDENAGAILUAREN KROKISAK
 #### MENUA:
