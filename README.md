@@ -54,16 +54,16 @@ Web aplikazioak sinplea, intuitiboa eta zuzena izan behar du. Bi perfilak, denbo
   
 ### 3.2 MUGIKORRAREN KROKISAK
 #### MENUA:
-<img width="472" height="352" alt="mobila-MENUA drawio" src="https://github.com/user-attachments/assets/e5ec98c9-def3-4bcb-aa83-ec5f0951a2d0" />
+<img width="472" height="352" alt="mobila-MENUA drawio (1)" src="https://github.com/user-attachments/assets/bdf3b8ba-c868-4047-ba2f-d4378f193ac5" />
   
 #### ERREZETAK INFO GENERALA:
-<img width="472" height="352" alt="mobila-ERREZETAK INFO GENERALA drawio" src="https://github.com/user-attachments/assets/05355eee-2c9a-41f6-bf92-e58023e7d24c" />
+<img width="472" height="352" alt="mobila-ERREZETAK INFO GENERALA drawio (1)" src="https://github.com/user-attachments/assets/466dda42-29ce-423e-96b0-abc3c8c3173e" />
   
 #### ERREZETAK INFO ZEHATZA:
-<img width="472" height="362" alt="mobila-ERREZETA INFORMAZIOA drawio" src="https://github.com/user-attachments/assets/24bea183-6c41-4420-876b-9e452e5a014d" />
+<img width="472" height="362" alt="mobila-ERREZETA INFORMAZIOA drawio (1)" src="https://github.com/user-attachments/assets/e7c1b187-403a-4c7d-a06a-4cf63eb523ea" />
   
 #### PLANIFIKAZIOA
-<img width="473" height="402" alt="mobila-PLANAIFIKAZIOA drawio" src="https://github.com/user-attachments/assets/190a011c-a7f1-40e2-bebc-050804357c50" />
+<img width="473" height="402" alt="mobila-PLANIFIKAZIOA drawio" src="https://github.com/user-attachments/assets/5e40c2fa-552c-4a3e-be77-c6de2c1576c1" />
 
 
 ## 4. NABIGAZIO MAPA
