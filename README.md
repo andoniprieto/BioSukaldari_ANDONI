@@ -67,4 +67,6 @@ Beste alde batetik, langile lanpetuaren profila dago. Erabiltzaile honen egoera 
 ## 4. NABIGAZIO MAPA
 [Nabigazio mapa.](https://docs.google.com/document/d/14fxfGhLAB-O4DLG-z639P1fw3p6TnS9DEQjsLq_mGJ4/edit?tab=t.0#heading=h.88d3driveewv)
 
+<img width="742" height="567" alt="NABEGAZIO_MAPA drawio (1)" src="https://github.com/user-attachments/assets/b9e2ee90-9464-49ed-a1ab-98eca95cec61" />
+
 
