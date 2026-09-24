@@ -93,4 +93,18 @@ Izenburuak — Bricolage Grotesque
 Testu-gorputza — Work Sans
 
 
+### BOTOIAK
+
+Itxuraren aldetik botoiak ez dira guztiz karratuak izango. Denak forma biribildua edukiko dute.
+
+Bilatu errezetak --> Testua zuria eta botoiaren kolorea berde iluna. 
+
+Ezabatu osagaia --> Testua zuria eta botoiaren kolorea gorria.
+
+Ikusi gehiago / informazio gehiago --> Testua berde iluna eta fondoa transparentea (zuri zikiña)
+
+Astean zeharreeko planifikazioa --> Linka da, testua berde iluna izango da.
+
+
+
 
