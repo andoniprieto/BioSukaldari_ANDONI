@@ -84,7 +84,7 @@ Web aplikazioak sinplea, intuitiboa eta zuzena izan behar du. Bi perfilak, denbo
 | BERDE ARGIA | Osasun-etiketak, arrakasta | #8FB996 |
 | HORI BEROA | Nabarmentzeak, balorazioak | #E3A23C |
 | GORRIA | Alertak, ez-osasuntsua | #B5473C |
-| TESTUA | TestU nagusia | #2A2621 |
+| TESTUA | Testu nagusia | #2A2621 |
 
 ### TIPOGRAFIA
 
