@@ -6,7 +6,7 @@ Osagai Gutxiko Errezeta Osasuntsuak
 Etxeko hozkailuan geratzen diren osagaiak sartu eta errezeta osasuntsuak eta jasangarriak gomendatzen dituen web-aplikazioa, elikagaiak ez xahutzeko.
 
 Ezaugarri nagusiak:  Bilatzaile aurreratua, txartel bidezko Diseinua (cards UI), nutrizio-datuak eta pausoz pausoko gidak.
-
+<br><br>
 ## 2. HELBURU DESBERDINAK
 ### 2.1 ONDORIOAK ETA KONPETENTZIA: 
 
@@ -36,7 +36,7 @@ Alde batetik, unibertsitateko ikaslearen profila dago. Erabiltzaile honek denbor
 Beste alde batetik, langile lanpetuaren profila dago. Erabiltzaile honen egoera ezberdina da: lanaldi luzeak eta estresa ditu, eta astean zehar sukaldean egoteko denbora gutxi du. Gainera, zer jan erabakitzeak neke mentala eragiten dio eta, maiz, janari ultraprozesatuetara edo janari azkarrera jotzen du. Hau jakinda, aste osoko planifikazioa sortu ahal izango du, etxean dituen osagaien arabera. Planifikazio honi esker, langileak ez du denborarik galduko, sukaldean denbora gutxi igaroko du eta janari osasuntsuak prestatu ahal izango ditu.
 
 Web aplikazioak sinplea, intuitiboa eta zuzena izan behar du. Bi perfilak, denbora gutxi behar dutelako eta ez dute aplikazio oso konplexu batean denborarik galdu nahi.
-
+<br><br>
 ## 3. KROKISAK
 ### 3.1 ORDENAGAILUAREN KROKISAK
 #### MENUA:
@@ -65,10 +65,32 @@ Web aplikazioak sinplea, intuitiboa eta zuzena izan behar du. Bi perfilak, denbo
 #### PLANIFIKAZIOA
 <img width="473" height="402" alt="mobila-PLANIFIKAZIOA drawio" src="https://github.com/user-attachments/assets/5e40c2fa-552c-4a3e-be77-c6de2c1576c1" />
 
-
+<br><br>
 ## 4. NABIGAZIO MAPA
 [Nabigazio mapa.](https://docs.google.com/document/d/14fxfGhLAB-O4DLG-z639P1fw3p6TnS9DEQjsLq_mGJ4/edit?tab=t.0#heading=h.88d3driveewv)
 
 <img width="742" height="567" alt="NABEGAZIO_MAPA drawio (1)" src="https://github.com/user-attachments/assets/b9e2ee90-9464-49ed-a1ab-98eca95cec61" />
+
+<br><br>
+
+## ESTILO-GIDA
+
+### KOLOREAK:
+
+| KOLOREA | ZERTARAKO | KODIGOA |
+|-----------|--------|---------|
+| ZURI ZIKIÑA | Oinarria (atzeko planoa) | #F3F4EC |
+| BERDE ILUNA | Botoiak, Izenburuak | #33493A |
+| BERDE ARGIA | Osasun-etiketak, arrakasta | #8FB996 |
+| HORI BEROA | Nabarmentzeak, balorazioak | #E3A23C |
+| GORRIA | Alertak, ez-osasuntsua | #B5473C |
+| TESTUA | TestU nagusia | #2A2621 |
+
+### TIPOGRAFIA
+
+Izenburuak — Bricolage Grotesque
+
+Testu-gorputza — Work Sans
+
 
 
