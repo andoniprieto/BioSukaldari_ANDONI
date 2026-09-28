@@ -1,7 +1,7 @@
 # BioSukaldari
 ANDONI PRIETO RODRIGUEZ
 
-## INDIZEA
+## INDIZEA --> LINKAK IKUTU
 
 1. [BioSukaldari](#biosukaldari)
    - [Sarrera](#sarrera-ikut-behar-da)
