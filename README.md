@@ -1,33 +1,29 @@
 # BioSukaldari
 ANDONI PRIETO RODRIGUEZ
 
-## INDIZEA --> LINKAK IKUTU
+## INDIZEA
 
-1. [BioSukaldari](#biosukaldari)
-   - [Sarrera](#sarrera-ikut-behar-da)
-
-2. [Helburu desberdinak](#-2-helburu-desberdinak)
-   1. [Ondorioak eta konpetentzia](#21-ondorioak-eta-konpetentzia)
-   2. [Erabiltzaile mota](#22-erabiltzaile-mota)
-
-3. [Krokisak](#-3-krokisak)
-   1. [Ordenagailuaren krokisak](#31-ordenagailuaren-krokisak)
-      - [Menua](#menua)
-      - [Errezetak: info generala](#errezetak-info-generala)
-      - [Errezetak: info zehatza](#errezetak-info-zehatza)
-      - [Planifikazioa](#planifikazioa)
-   2. [Mugikorraren krokisak](#32-mugikorraren-krokisak)
-      - [Menua](#menua-1)
-      - [Errezetak: info generala](#errezetak-info-generala-1)
-      - [Errezetak: info zehatza](#errezetak-info-zehatza-1)
-      - [Planifikazioa](#planifikazioa-1)
-
-4. [Nabigazio mapa](#-4-nabigazio-mapa)
-
-5. [Estilo-gida](#estilo-gida)
-   - [Koloreak](#koloreak)
-   - [Tipografia](#tipografia)
-   - [Botoiak](#botoiak)
+- [BioSukaldari](#biosukaldari)
+- [Sarrera](#sarrera-ikutu-behar-da)
+- [2. Helburu desberdinak](#2-helburu-desberdinak)
+  - [2.1 Ondorioak eta konpetentzia](#21-ondorioak-eta-konpetentzia)
+  - [2.2 Erabiltzaile mota](#22-erabiltzaile-mota)
+- [3. Krokisak](#3-krokisak)
+  - [3.1 Ordenagailuaren krokisak](#31-ordenagailuaren-krokisak)
+    - [Menua](#menua)
+    - [Errezetak: info generala](#errezetak-info-generala)
+    - [Errezetak: info zehatza](#errezetak-info-zehatza)
+    - [Planifikazioa](#planifikazioa)
+  - [3.2 Mugikorraren krokisak](#32-mugikorraren-krokisak)
+    - [Menua](#menua-1)
+    - [Errezetak: info generala](#errezetak-info-generala-1)
+    - [Errezetak: info zehatza](#errezetak-info-zehatza-1)
+    - [Planifikazioa](#planifikazioa-1)
+- [4. Nabigazio mapa](#4-nabigazio-mapa)
+- [Estilo-gida](#estilo-gida)
+  - [Koloreak](#koloreak)
+  - [Tipografia](#tipografia)
+  - [Botoiak](#botoiak)
 
 Osagai Gutxiko Errezeta Osasuntsuak
 ## Sarrera: IKUTU BEHAR DA
@@ -132,7 +128,3 @@ Ezabatu osagaia --> Testua zuria eta botoiaren kolorea gorria.
 Ikusi gehiago / informazio gehiago --> Testua berde iluna eta fondoa transparentea (zuri zikiña)
 
 Astean zeharreeko planifikazioa --> Linka da, testua berde iluna izango da.
-
-
-
-
