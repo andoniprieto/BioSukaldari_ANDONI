@@ -25,6 +25,7 @@ ANDONI PRIETO RODRIGUEZ
   - [5.2 Tipografia](#52-tipografia)
   - [5.3 Botoiak](#53-botoiak)
   - [5.4 Ikonoak](#54-ikonoak)
+  - [5.5 Irudiak](#55-irudiak)
 
 Osagai Gutxiko Errezeta Osasuntsuak
 ## Sarrera: IKUTU BEHAR DA
@@ -146,7 +147,12 @@ Hemen adibide batzuk:
 | 📅 Egutegia | Asteko Plana |
 | 🔍 Lupa | Bilaketa orokorra |
 
+### 5.5 Irudiak
 
+Errezeten eta osagaien benetako argazkiak erakusteko balio duena (**JPG** edo **WebP**) erabiliko dira. Formatu hauek erabiliz, irudiak hobeto ikusiko dira eta erabiltzailearendako esperientzia eraginkorragoa eta ikusgarriagoa izango da.
+
+* **Formatua:** WebP edo JPG (fitxategien pisua gutxitzeko eta webgunearen karga-abiadura hobetzeko). Txarteletan (Card UI) **16:9** edo **4:3** proportzioa mantenduko da.
+* **Ertzak:** Txarteletako irudiek ertze biribilduak izango dituzte (border-radius: 12px).
 
 
 
