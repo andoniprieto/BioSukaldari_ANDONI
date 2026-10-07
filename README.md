@@ -24,7 +24,7 @@ ANDONI PRIETO RODRIGUEZ
   - [5.1 Koloreak](#51-koloreak)
   - [5.2 Tipografia](#52-tipografia)
   - [5.3 Botoiak](#53-botoiak)
-  - [5.4 Ikonoak](#53-ikonoak)
+  - [5.4 Ikonoak](#54-ikonoak)
 
 Osagai Gutxiko Errezeta Osasuntsuak
 ## Sarrera: IKUTU BEHAR DA
