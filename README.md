@@ -20,10 +20,11 @@ ANDONI PRIETO RODRIGUEZ
     - [Errezetak: info zehatza](#errezetak-info-zehatza-1)
     - [Planifikazioa](#planifikazioa-1)
 - [4. Nabigazio mapa](#4-nabigazio-mapa)
-- [Estilo-gida](#estilo-gida)
-  - [Koloreak](#koloreak)
-  - [Tipografia](#tipografia)
-  - [Botoiak](#botoiak)
+- [5. Estilo-gida](#5-estilo-gida)
+  - [5.1 Koloreak](#51-koloreak)
+  - [5.2 Tipografia](#52-tipografia)
+  - [5.3 Botoiak](#53-botoiak)
+  - 
 
 Osagai Gutxiko Errezeta Osasuntsuak
 ## Sarrera: IKUTU BEHAR DA
@@ -97,9 +98,9 @@ Web aplikazioak sinplea, intuitiboa eta zuzena izan behar du. Bi perfilak, denbo
 
 <br><br>
 
-## ESTILO-GIDA
+## 5. ESTILO-GIDA
 
-### KOLOREAK:
+### 5.1 KOLOREAK:
 
 | KOLOREA | ZERTARAKO | KODIGOA |
 |-----------|--------|---------|
@@ -110,14 +111,14 @@ Web aplikazioak sinplea, intuitiboa eta zuzena izan behar du. Bi perfilak, denbo
 | GORRIA | Alertak, ez-osasuntsua | #B5473C |
 | TESTUA | Testu nagusia | #2A2621 |
 
-### TIPOGRAFIA
+### 5.2 TIPOGRAFIA
 
 Izenburuak — Bricolage Grotesque
 
 Testu-gorputza — Work Sans
 
 
-### BOTOIAK
+### 5.3 BOTOIAK
 
 Itxuraren aldetik botoiak ez dira guztiz karratuak izango. Denak forma biribildua edukiko dute.
 
@@ -128,3 +129,24 @@ Ezabatu osagaia --> Testua zuria eta botoiaren kolorea gorria.
 Ikusi gehiago / informazio gehiago --> Testua berde iluna eta fondoa transparentea (zuri zikiña)
 
 Astean zeharreeko planifikazioa --> Linka da, testua berde iluna izango da.
+
+### 5.4 IKONOAK
+
+Ikonoak erabiliko dira janari desberdinak desberdintzeko. Gainera beste hainbat ekintzarako ere erabiliko dira.
+
+Hemen adibide batzuk:
+
+| IKONOA | ERABILERA |
+|---|---|
+| 🍳 / 🧊 Hozkailua | Osagaien Bilatzailea |
+| ⏱️ Erlojua | Preparazio denbora |
+| 🥗 Landarea / Bihotza | Nutrizio kalitatea |
+| ★ Izarra | Erabiltzaileen nota |
+| 🗑️ Zaborontzia | Osagaiak ezabatu |
+| 📅 Egutegia | Asteko Plana |
+| 🔍 Lupa | Bilaketa orokorra |
+
+
+
+
+
