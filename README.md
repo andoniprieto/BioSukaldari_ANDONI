@@ -132,7 +132,7 @@ Astean zeharreeko planifikazioa --> Linka da, testua berde iluna izango da.
 
 ### 5.4 IKONOAK
 
-Ikonoak erabiliko dira janari desberdinak desberdintzeko. Gainera beste hainbat ekintzarako ere erabiliko dira.
+Ikonoak erabiliko dira janari desberdinak desberdintzeko. Gainera beste hainbat ekintzarako ere erabiliko dira. Hauek SVG (Scalable Vector Graphics) bektore-irudi formatu batean egongo dira txertatuta.
 
 Hemen adibide batzuk:
 
