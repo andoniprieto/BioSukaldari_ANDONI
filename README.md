@@ -26,6 +26,7 @@ ANDONI PRIETO RODRIGUEZ
   - [5.3 Botoiak](#53-botoiak)
   - [5.4 Ikonoak](#54-ikonoak)
   - [5.5 Irudiak](#55-irudiak)
+- [6. Prototipoa](#6-prototipoa)
 
 Osagai Gutxiko Errezeta Osasuntsuak
 ## Sarrera: IKUTU BEHAR DA
@@ -154,5 +155,9 @@ Errezeten eta osagaien benetako argazkiak erakusteko balio duena (**JPG** edo **
 * **Formatua:** WebP edo JPG (fitxategien pisua gutxitzeko eta webgunearen karga-abiadura hobetzeko). Txarteletan (Card UI) **16:9** edo **4:3** proportzioa mantenduko da.
 * **Ertzak:** Txarteletako irudiek ertze biribilduak izango dituzte (border-radius: 12px).
 
+## 6. PROTOTIPOA
 
+ | PROTOTIPOA | ESTEKA |
+|-----------|--------|
+| BioSukaldari | https://www.figma.com/make/Xe37HXBSrbiAWwVuRrIY1Q/Actualizar-prototipo-de-recetas?code-node-id=0-6&p=f&t=wHweQZjSJSsooBDA-0&fullscreen=1 |
 
