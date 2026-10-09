@@ -140,7 +140,6 @@ Hemen adibide batzuk:
 
 | IKONOA | ERABILERA |
 |---|---|
-| 🍳 / 🧊 Hozkailua | Osagaien Bilatzailea |
 | ⏱️ Erlojua | Preparazio denbora |
 | 🥗 Landarea / Bihotza | Nutrizio kalitatea |
 | ★ Izarra | Erabiltzaileen nota |
