@@ -4,7 +4,7 @@ ANDONI PRIETO RODRIGUEZ
 ## INDIZEA
 
 - [BioSukaldari](#biosukaldari)
-- [Sarrera](#sarrera-ikutu-behar-da)
+- [1. Sarrera](#1-sarrera)
 - [2. Helburu desberdinak](#2-helburu-desberdinak)
   - [2.1 Ondorioak eta konpetentzia](#21-ondorioak-eta-konpetentzia)
   - [2.2 Erabiltzaile mota](#22-erabiltzaile-mota)
@@ -32,10 +32,11 @@ ANDONI PRIETO RODRIGUEZ
 - [9. Bibliografia](#9-bibliografia)
 
 Osagai Gutxiko Errezeta Osasuntsuak
-## Sarrera: IKUTU BEHAR DA
-Etxeko hozkailuan geratzen diren osagaiak sartu eta errezeta osasuntsuak eta jasangarriak gomendatzen dituen web-aplikazioa, elikagaiak ez xahutzeko.
+## 1. SARRERA
 
-Ezaugarri nagusiak:  Bilatzaile aurreratua, txartel bidezko Diseinua (cards UI), nutrizio-datuak eta pausoz pausoko gidak.
+BioSukaldari web-aplikazio bat da, etxean elikagaiak ez xahutzeko eta osasuntsu jateko sortua. Askotan ez dakigu zer egin hozkailuan geratzen diren osagaiekin, eta azkenean janaria botatzen dugu. Aplikazio honek arazo hori konpontzen laguntzen du: etxean dituzun osagaiak sartu besterik ez duzu egin behar, eta aplikazioak errezeta osasuntsu, erraz eta merkeak proposatzen dizkizu.
+
+BioSukaldari oso sinplea eta azkarra da, denbora gutxi duten pertsonei laguntzeko pentsatuta dagoelako, adibidez unibertsitateko ikasleei edo langileei. Interfaze garbia du, eta errezeta bakoitzak bere nutrizio-informazioa eta pausoz pausoko gida dauzka. Gainera, asteko otorduak planifikatzeko aukera ere ematen du, sukaldean denborarik ez galtzeko.
 <br><br>
 ## 2. HELBURU DESBERDINAK
 ### 2.1 ONDORIOAK ETA KONPETENTZIA: 
