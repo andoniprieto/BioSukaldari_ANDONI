@@ -162,7 +162,8 @@ Errezeten eta osagaien benetako argazkiak erakusteko balio duena (**JPG** edo **
 
  | PROTOTIPOA | ESTEKA |
 |-----------|--------|
-| BioSukaldari | https://www.figma.com/make/Xe37HXBSrbiAWwVuRrIY1Q/Actualizar-prototipo-de-recetas?code-node-id=0-6&p=f&t=wHweQZjSJSsooBDA-0&fullscreen=1 |
+| Ordenagailua | https://www.figma.com/make/Xe37HXBSrbiAWwVuRrIY1Q/Actualizar-prototipo-de-recetas?code-node-id=0-6&p=f&t=wHweQZjSJSsooBDA-0&fullscreen=1 |
+| Mobila | https://www.figma.com/make/PKKzLYKMqQXXnzrmjPZHNe/Actualizar-prototipo-de-recetas--Copy-?p=f&t=dGPeOR4ciEyhXcLi-0 |
 
 ## 7. LIZENTZIAK
 
