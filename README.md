@@ -27,6 +27,9 @@ ANDONI PRIETO RODRIGUEZ
   - [5.4 Ikonoak](#54-ikonoak)
   - [5.5 Irudiak](#55-irudiak)
 - [6. Prototipoa](#6-prototipoa)
+- [7. Lizentziak](#7-lizentziak)
+- [8. Erabilgarritasuna](#8-erabilgarritasuna)
+- [9. Bibliografia](#9-bibliografia)
 
 Osagai Gutxiko Errezeta Osasuntsuak
 ## Sarrera: IKUTU BEHAR DA
@@ -159,4 +162,40 @@ Errezeten eta osagaien benetako argazkiak erakusteko balio duena (**JPG** edo **
  | PROTOTIPOA | ESTEKA |
 |-----------|--------|
 | BioSukaldari | https://www.figma.com/make/Xe37HXBSrbiAWwVuRrIY1Q/Actualizar-prototipo-de-recetas?code-node-id=0-6&p=f&t=wHweQZjSJSsooBDA-0&fullscreen=1 |
+
+## 7. LIZENTZIAK
+
+BioSukaldari proiektuan lizentzia hauek erabiltzen dira:
+
+* **Testuak, Diseinua eta Errezetak (Edukia):** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+  
+  Lizentzia honek aukera ematen du edukia partekatzeko eta moldatzeko, beti (Andoni Prieto Rodriguez / BioSukaldari) aipatzen bada.
+  
+* **Kode Iturburua (Web Aplikazioa):** [MIT Lizentzia](https://opensource.org/licenses/MIT).
+  
+  Softwarearen erabilera librea, aldaketa eta garapena ahalbidetzen dituen lizentzia irekia.
+
+
+## 8. ERABILGARRITASUNA
+
+BioSukaldari aplikazioaren erabilgarritasuna bermatzeko, interfazearen eta erabiltzaile-esperientziaren azterketa Jakob Nielsen-en legeak eta irisgarritasun-arauetan oinarritu dira:
+
+1. **Eraginkortasuna eta Abiadura:** Erabiltzaile profil nagusiek (ikasleak eta langileak) denbora gutxi dutenez, bilaketa gutxieneko klik kopuruan egiteko diseinatu da.
+   
+2. **Karga Mentala Gutxitzea:** Klik bakarrean osagaiak gehitu eta ezabatzeko aukera.
+  
+3. **Diseinu Egokigarria (Responsive & Mobile-First):** Ordenagailurako zein mugikorrerako krokis desberdinduak sortu dira.
+
+4. **Kolore Kontrastea eta Irisgarritasuna (WCAG 2.1 AA):** Estilo-gidan definitutako kolore-paletak kontraste altua du.
+
+5. **Erroreen Prebentzioa eta Berrelikadura Visuala:** Ezabatzeko botoiak gorriz daude eta ekintza garrantzitsuek ikuspen argia dute.
+
+
+
+## 9. BIBLIOGRAFIA
+
+* Cookpad --> https://cookpad.com/es
+* MyRealFood --> Linka: https://www.myrealfood.app/es/recipes
+* SuperCook --> Linka: https://www.supercook.com/#/desktop
+* Coolors --> Linka: https://coolors.co/
 
